@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="inode-directory.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1291">
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:1;"
+         offset="0"
+         id="stop1287" />
+      <stop
+         style="stop-color:#8a8a8a;stop-opacity:1;"
+         offset="1"
+         id="stop1289" />
+    </linearGradient>
+    <rect
+       x="289.0481"
+       y="330.35601"
+       width="268.41911"
+       height="194.62594"
+       id="rect1095" />
+    <rect
+       x="275.26769"
+       y="374.60316"
+       width="412.31212"
+       height="282.31086"
+       id="rect1083" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient968">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop966" />
+      <stop
+         style="stop-color:#b43a3a;stop-opacity:1;"
+         offset="1"
+         id="stop964" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient968"
+       id="linearGradient970"
+       x1="238.94162"
+       y1="608.11377"
+       x2="255.78104"
+       y2="32.799671"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.89007981,0,0,0.89007981,25.149039,-25.51419)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1291"
+       id="linearGradient1284"
+       gradientUnits="userSpaceOnUse"
+       x1="238.94162"
+       y1="608.11377"
+       x2="255.78104"
+       y2="32.799671"
+       gradientTransform="matrix(-0.89007981,0,0,-0.89007981,480.09523,539.50383)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.1873833"
+     inkscape:cx="-96.059789"
+     inkscape:cy="640.39859"
+     inkscape:window-width="1056"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="1110"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#000000"
+     d="M 253.00947,2.9683642 42.950633,330.51772 l 53.404783,56.9651 46.373164,-67.55705 39.07451,39.0745 44.94902,-44.94902 26.25736,59.1903 26.25735,-59.1903 44.94903,44.94902 39.0745,-39.0745 46.37316,67.55705 53.40478,-56.9651 z M 244.99876,44.802113 V 114.22833 L 210.28564,102.6573 Z m 16.02143,0 34.7131,57.855187 -34.7131,11.57103 z"
+     id="path2"
+     style="fill:url(#linearGradient970);fill-opacity:1;stroke:#ffffff;stroke-width:4.87735;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     fill="#000000"
+     d="m 252.2348,511.02127 210.05882,-327.54937 -53.40478,-56.9651 -46.37317,67.55705 -39.0745,-39.0745 -44.94902,44.94904 -26.25735,-59.19031 -26.25736,59.19031 -44.94903,-44.94904 -39.0745,39.0745 -46.373154,-67.55705 -53.404788,56.9651 z m 8.01071,-41.83376 v -69.42622 l 34.71311,11.57104 z m -16.02143,0 -34.71312,-57.85518 34.71312,-11.57104 z"
+     id="path2-6"
+     style="fill:url(#linearGradient1284);fill-opacity:1;stroke:#ffffff;stroke-width:4.87735;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     transform="scale(0.64)"
+     id="text1081"
+     style="font-size:17.3333px;font-family:'DIN Next LT W23';-inkscape-font-specification:'DIN Next LT W23';white-space:pre;shape-inside:url(#rect1083);display:inline;fill:#000000;stroke:#ffffff;stroke-width:8.562;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
