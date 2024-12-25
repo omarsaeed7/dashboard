@@ -2,5 +2,5 @@
 @section('title', 'index')
 
 @section('content')
-    <h1 class="text-center"> page</h1>
+    <h1 class="text-center"> Blank page</h1>
 @endsection
